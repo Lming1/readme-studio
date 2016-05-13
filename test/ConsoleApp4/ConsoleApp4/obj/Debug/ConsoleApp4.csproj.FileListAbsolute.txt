@@ -1,6 +1,0 @@
-C:\Users\민구\Desktop\민혁\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
-C:\Users\민구\Desktop\민혁\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
-C:\Users\민구\Desktop\민혁\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
-C:\Users\민구\Desktop\민혁\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
-C:\Users\민구\Desktop\민혁\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
-C:\Users\민구\Desktop\민혁\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojResolveAssemblyReference.cache
