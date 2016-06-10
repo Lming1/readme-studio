@@ -6,6 +6,7 @@ public class Coin : MonoBehaviour {
     {
         if(col.gameObject.name == "Ball")
         {
+            GameObject.Find("GameManager").SendMessage("GetCoin");
             Destroy(gameObject);
         }
     }
@@ -16,6 +17,7 @@ public class Coin : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+        transform.Rotate(new Vector3(0.0f, 0.0f, 2.5f));
 	
 	}
 }

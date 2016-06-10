@@ -6,18 +6,11 @@ public class RedCoin : MonoBehaviour {
     {
         if (col.gameObject.name == "Ball")
         {
-            DestoryObstacles();
+            GameObject.Find("GameManager").SendMessage("RedCoinStart");
             Destroy(gameObject);
         }
     }
-    void DestoryObstacles()
-    {
-        GameObject[] obstacles = GameObject.FindGameObjectsWithTag("Obstacle");
-        for (int i = 0; i < obstacles.Length; i++)
-        {
-            Destroy(obstacles[i]);
-        }
-    }
+ 
     // Use this for initialization
     void Start () {
 	
