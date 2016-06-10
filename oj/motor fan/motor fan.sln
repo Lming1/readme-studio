@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1E1FF73F-4CE8-336E-89FB-FF51A2741889}") = "motor fan", "Assembly-CSharp.csproj", "{90EF0C9A-29F7-2564-6F9E-439AC0ED1879}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90EF0C9A-29F7-2564-6F9E-439AC0ED1879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90EF0C9A-29F7-2564-6F9E-439AC0ED1879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90EF0C9A-29F7-2564-6F9E-439AC0ED1879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90EF0C9A-29F7-2564-6F9E-439AC0ED1879}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
